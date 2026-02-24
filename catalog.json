@@ -1,0 +1,234 @@
+{
+  "version": 1,
+  "playlists": [
+    {
+      "id": "pl_soul_originals",
+      "title": "Soul Originals",
+      "description": "Soul & G-Funk crafted to elevate your frequency",
+      "genre": "Soul / G-Funk",
+      "coverUrl": "asset://assets/images/soul_playlist_cover.jpg",
+      "tracks": [
+        {
+          "id": "st_001",
+          "title": "WAKE UP",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v2.0/WAKE%20UP.mp3",
+          "durationSeconds": 341,
+          "genre": "Soul / G-Funk",
+          "fileSizeMb": 8.1,
+          "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        },
+        {
+          "id": "st_007",
+          "title": "Reclaim",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v2.0/Reclaim.mp3",
+          "durationSeconds": 313,
+          "genre": "Soul / G-Funk",
+          "fileSizeMb": 7.5,
+          "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        },
+        {
+          "id": "st_022",
+          "title": "a little truth...",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v2.0/a%20little%20truth.mp3",
+          "durationSeconds": 269,
+          "genre": "Soul / G-Funk",
+          "fileSizeMb": 6.5,
+          "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        },
+        {
+          "id": "st_002",
+          "title": "RIGHT NOW",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v2.0/RIGHT%20NOW.mp3",
+          "durationSeconds": 224,
+          "genre": "Soul / G-Funk",
+          "fileSizeMb": 5.5,
+          "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        },
+        {
+          "id": "st_003",
+          "title": "Fire Inside",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v2.0/Fire%20Inside.mp3",
+          "durationSeconds": 313,
+          "genre": "Soul / G-Funk",
+          "fileSizeMb": 6.3,
+          "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        },
+        {
+          "id": "st_004",
+          "title": "Lift Off",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v2.0/Lift%20Off.mp3",
+          "durationSeconds": 227,
+          "genre": "Soul / G-Funk",
+          "fileSizeMb": 5.4,
+          "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        },
+        {
+          "id": "st_005",
+          "title": "Groove State",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v2.0/Groove%20State.mp3",
+          "durationSeconds": 231,
+          "genre": "Soul / G-Funk",
+          "fileSizeMb": 5.2,
+          "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        },
+        {
+          "id": "st_006",
+          "title": "No More Chains",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v2.0/No%20More%20Chains.mp3",
+          "durationSeconds": 333,
+          "genre": "Soul / G-Funk",
+          "fileSizeMb": 8.0,
+          "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        },
+        {
+          "id": "st_008",
+          "title": "Find Me In The Frequency",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v2.0/Find%20me%20in%20the%20frequency.mp3",
+          "durationSeconds": 383,
+          "genre": "Soul / G-Funk",
+          "fileSizeMb": 8.3,
+          "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        },
+        {
+          "id": "st_009",
+          "title": "Unbound",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v2.0/Unbound.mp3",
+          "durationSeconds": 278,
+          "genre": "Soul / G-Funk",
+          "fileSizeMb": 6.8,
+          "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        },
+        {
+          "id": "st_010",
+          "title": "Golden",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v2.0/Golden.mp3",
+          "durationSeconds": 294,
+          "genre": "Soul / G-Funk",
+          "fileSizeMb": 6.6,
+          "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        },
+        {
+          "id": "st_011",
+          "title": "Soul Ties",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v2.0/Soul%20Ties.mp3",
+          "durationSeconds": 290,
+          "genre": "Soul / G-Funk",
+          "fileSizeMb": 6.5,
+          "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        },
+        {
+          "id": "st_012",
+          "title": "Brand New Weight",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v2.0/Brand%20new%20weight.mp3",
+          "durationSeconds": 294,
+          "genre": "Soul / G-Funk",
+          "fileSizeMb": 6.9,
+          "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        },
+        {
+          "id": "st_013",
+          "title": "Somethin's Shiftin'",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v2.0/Somethin's%20Shiftin'.mp3",
+          "durationSeconds": 320,
+          "genre": "Soul / G-Funk",
+          "fileSizeMb": 7.3,
+          "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        },
+        {
+          "id": "st_014",
+          "title": "Body Knows",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v2.0/Body%20Knows.mp3",
+          "durationSeconds": 253,
+          "genre": "Soul / G-Funk",
+          "fileSizeMb": 5.9,
+          "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        },
+        {
+          "id": "st_015",
+          "title": "Breathe Easy",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v2.0/Breathe%20Easy.mp3",
+          "durationSeconds": 318,
+          "genre": "Soul / G-Funk",
+          "fileSizeMb": 7.3,
+          "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        },
+        {
+          "id": "st_016",
+          "title": "Let The River Flow",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v2.0/Let%20The%20River%20Flow.mp3",
+          "durationSeconds": 326,
+          "genre": "Soul / G-Funk",
+          "fileSizeMb": 7.4,
+          "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        },
+        {
+          "id": "st_017",
+          "title": "Quiet Power",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v2.0/Quiet%20Power.mp3",
+          "durationSeconds": 308,
+          "genre": "Soul / G-Funk",
+          "fileSizeMb": 6.7,
+          "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        },
+        {
+          "id": "st_018",
+          "title": "Still Waters",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v2.0/Still%20Waters.mp3",
+          "durationSeconds": 321,
+          "genre": "Soul / G-Funk",
+          "fileSizeMb": 6.9,
+          "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        },
+        {
+          "id": "st_019",
+          "title": "After The Storm",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v2.0/After%20The%20Storm.mp3",
+          "durationSeconds": 290,
+          "genre": "Soul / G-Funk",
+          "fileSizeMb": 6.1,
+          "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        },
+        {
+          "id": "st_020",
+          "title": "New Dawn",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v2.0/New%20Dawn.mp3",
+          "durationSeconds": 245,
+          "genre": "Soul / G-Funk",
+          "fileSizeMb": 5.6,
+          "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        },
+        {
+          "id": "st_021",
+          "title": "The Path",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v2.0/The%20Path.mp3",
+          "durationSeconds": 285,
+          "genre": "Soul / G-Funk",
+          "fileSizeMb": 7.0,
+          "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        }
+      ]
+    }
+  ]
+}
