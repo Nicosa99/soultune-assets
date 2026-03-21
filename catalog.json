@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "playlists": [
     {
       "id": "pl_astral_harmony",
@@ -339,6 +339,26 @@
           "genre": "Soul / G-Funk",
           "fileSizeMb": 5.5,
           "tags": ["Soul", "G-Funk", "432Hz", "Consciousness"]
+        }
+      ]
+    },
+    {
+      "id": "pl_psytrance_goa",
+      "title": "Psytrance / Goa",
+      "description": "High-energy psychedelic rhythms for deep expansion",
+      "genre": "Psytrance / Goa",
+      "coverUrl": "asset://assets/images/psytrance_cover_image.jpg",
+      "tracks": [
+        {
+          "id": "ps_001",
+          "title": "The Great Awakening",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v4.0/The.Great.Awakening.mp3",
+          "durationSeconds": 480,
+          "genre": "Psytrance / Goa",
+          "fileSizeMb": 11.2,
+          "tags": ["Psytrance", "Goa", "High Energy", "Awakening"],
+          "isFree": true
         }
       ]
     }
