@@ -1,6 +1,114 @@
 {
-  "version": 2,
+  "version": 3,
   "playlists": [
+    {
+      "id": "pl_astral_harmony",
+      "title": "Astral Harmony",
+      "description": "Deep astral meditation journeys for expansion",
+      "genre": "Astral Meditation",
+      "coverUrl": "asset://assets/images/astral_harmony_playlist_cover.jpg",
+      "tracks": [
+        {
+          "id": "ah_001",
+          "title": "Aetheria",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v3.0/Aetheria.mp3",
+          "durationSeconds": 420,
+          "genre": "Astral Meditation",
+          "fileSizeMb": 9.5,
+          "tags": ["Astral", "Meditation", "Warm Gold", "Aetheria"],
+          "isFree": true
+        },
+        {
+          "id": "ah_002",
+          "title": "Lumira",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v3.0/Lumira.mp3",
+          "durationSeconds": 380,
+          "genre": "Astral Meditation",
+          "fileSizeMb": 8.7,
+          "tags": ["Astral", "Meditation", "Amber", "Lumira"],
+          "isFree": true
+        },
+        {
+          "id": "ah_003",
+          "title": "Elysia",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v3.0/Elysia.mp3",
+          "durationSeconds": 450,
+          "genre": "Astral Meditation",
+          "fileSizeMb": 10.2,
+          "tags": ["Astral", "Meditation", "White", "Elysia"],
+          "isFree": true
+        },
+        {
+          "id": "ah_004",
+          "title": "Serapha",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v3.0/Serapha.mp3",
+          "durationSeconds": 510,
+          "genre": "Astral Meditation",
+          "fileSizeMb": 11.5,
+          "tags": ["Astral", "Meditation", "Rose Gold", "Serapha"],
+          "isFree": true
+        },
+        {
+          "id": "ah_005",
+          "title": "Aurora",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v3.0/Aurora.mp3",
+          "durationSeconds": 480,
+          "genre": "Astral Meditation",
+          "fileSizeMb": 10.8,
+          "tags": ["Astral", "Meditation", "Silver", "Aurora"],
+          "isFree": true
+        },
+        {
+          "id": "ah_006",
+          "title": "Elara",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v3.0/Elara.mp3",
+          "durationSeconds": 360,
+          "genre": "Astral Meditation",
+          "fileSizeMb": 8.2,
+          "tags": ["Astral", "Meditation", "Indigo", "Elara"],
+          "isFree": true
+        },
+        {
+          "id": "ah_007",
+          "title": "Solara",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v3.0/Solara.mp3",
+          "durationSeconds": 440,
+          "genre": "Astral Meditation",
+          "fileSizeMb": 9.9,
+          "tags": ["Astral", "Meditation", "Bronze Gold", "Solara"],
+          "isFree": true
+        },
+        {
+          "id": "ah_008",
+          "title": "Lyria",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v3.0/Lyria.mp3",
+          "durationSeconds": 520,
+          "genre": "Astral Meditation",
+          "fileSizeMb": 11.8,
+          "tags": ["Astral", "Meditation", "Sapphire", "Lyria"],
+          "isFree": true
+        },
+        {
+          "id": "ah_009",
+          "title": "Empyrea",
+          "artist": "SoulTune Exclusive",
+          "url": "https://github.com/Nicosa99/soultune-assets/releases/download/v3.0/Empyrea.mp3",
+          "durationSeconds": 600,
+          "genre": "Astral Meditation",
+          "fileSizeMb": 13.5,
+          "tags": ["Astral", "Meditation", "Pure Light", "Empyrea"],
+          "isFree": true
+        }
+      ]
+    },
     {
       "id": "pl_soul_originals",
       "title": "Soul Originals",
